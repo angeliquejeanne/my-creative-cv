@@ -5,9 +5,7 @@
     Réaliser lors d'un cours html/css durant la formation de développeur web / web mobile à WebForce3, puis amélioré par la suite.
 </h2>
 <p align="center">
-    <a href="https://anggiie.github.io/Simonangelique_5_07122020/" style="text-decoration: none;">
-        <img src="./src/maquettes/01-Header.JPG" width="800" alt="Creative Cv header"/>
-    </a>
+    <img src="./src/maquettes/01-Header.JPG" width="800" alt="Creative Cv header"/>
 </p>
 <div style="font-size: 20px; color: #a89274; text-align: center; margin: 0 auto; width: 1000px">
     <h3> Que fallait-il faire?</h3>
