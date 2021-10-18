@@ -13,7 +13,7 @@
     <ul style="list-style-type: none;">
         <li> - Récupérer le Zip contenant les maquettes et images </li>
         <li> - Ouvrir la maquette et voir comment la découper </li> 
-        <li> - Créartion du dossier contenant le projet, ouverture dans VSCode </li>
+        <li> - Création du dossier contenant le projet, ouverture dans VSCode </li>
         <li> - Création du fichier HTML avec les balises de départ </li>
         <li> - Création d'un dossier "src" qui contient un dossier "img" et "style", création des fichiers css dans "style" </li>
         <li> - Réalisation du "header" (html et css) </li>
